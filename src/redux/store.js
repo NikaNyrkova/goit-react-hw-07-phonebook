@@ -25,3 +25,4 @@ export const store = configureStore({
   devTools: true,
 });
 
+// middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(logger),
